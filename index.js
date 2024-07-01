@@ -107,7 +107,13 @@ inquirer
 ${response.description}
 
 ## Table of Contents
-${response.contents.map((content) => `* ${content}`).join('\n')}
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
 
 ## Installation
 ${response.installation}

@@ -15,7 +15,9 @@ Generates a high-quality, professional README with the following sections: Descr
 Download the file <index.js>. Install inquirer ^8.2.4 within the folder that this application resides. 
 
 ## Usage
-By using the command line you can utilize this application by running “node index.js” on an integrated terminal that has installed inquirer already. Then follow the prompts to create the README.md
+By using the command line you can utilize this application by running “node index.js” on an integrated terminal that has installed inquirer already. Then follow the prompts to create the README.md. 
+
+Video on how to use the application: https://drive.google.com/file/d/1HKB9Rop8EzzGMgwBQN_avtd4Somatkno/view?usp=sharing
 
 ## License
 MIT License

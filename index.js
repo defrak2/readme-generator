@@ -1,7 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-//title
 
 inquirer
   .prompt([
@@ -50,7 +49,7 @@ inquirer
     {
       type: "input",
       name: "tests",
-      message: "Provide examples on how to run your application"
+      message: "Provide examples on how to run tests for your application"
     },
     {
       type: "input",
